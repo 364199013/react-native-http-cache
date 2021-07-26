@@ -2,7 +2,7 @@
   "name": "react-native-http-cache",
   "version": "0.2.0",
   "description": "Control http cache used by fetch/XMLHttpRequest",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "node node_modules/eslint/bin/eslint ."
   },
